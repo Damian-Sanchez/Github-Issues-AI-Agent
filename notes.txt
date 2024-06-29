@@ -1,0 +1,7 @@
+1. Added badge for current user identification - Resolves issue #121
+2. Fixing close button on alert - Thankful fix in bootstrap closing button
+3. Value Error - Error after adding blueprints for views and auth
+Save these to a note
+1. FR: Add logging exportFeature Request to add exporting/streaming the logs to a remote syslog server, primarily for Nerds!
+2. 402: C43 gets in the way of rear heatsink mounting
+3. Ultra 205Merge 205 into main
